@@ -148,12 +148,12 @@ It's a great way to learn.
 * [**Node.js**: _How to create a real-world Node CLI app with Node_](https://medium.freecodecamp.org/how-to-create-a-real-world-node-cli-app-with-node-391b727bbed3)
 * [**Node.js**: _Build a DNS Server in Node.js_](https://engineerhead.github.io/dns-server/)
 
-## Contribute 
+## Contribute to the Codecrafters repo:
 * Submissions welcome, just send a PR, or [create an issue](https://github.com/codecrafters-io/build-your-own-x/issues/new)
 * Help us review [pending submissions](https://github.com/codecrafters-io/build-your-own-x/issues) by leaving comments and "reactions"
 
-## Origins & License
+## Origins & License (this is a fork!)
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-This repository is the work of [many contributors](https://github.com/codecrafters-io/build-your-own-x/graphs/contributors). It was started by [Daniel Stefanovic](https://github.com/danistefanovic), and is now maintained by [CodeCrafters, Inc.](https://codecrafters.io) To the extent possible under law, [CodeCrafters, Inc.](https://codecrafters.io) has waived all copyright and related or neighboring rights to this work.
+The Codecrafters repository is the work of [many contributors](https://github.com/codecrafters-io/build-your-own-x/graphs/contributors). It was started by [Daniel Stefanovic](https://github.com/danistefanovic), and is now maintained by [CodeCrafters, Inc.](https://codecrafters.io) To the extent possible under law, [CodeCrafters, Inc.](https://codecrafters.io) has waived all copyright and related or neighboring rights to this work.
