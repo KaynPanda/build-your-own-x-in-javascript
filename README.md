@@ -1,8 +1,8 @@
-[![Banner](https://codecrafters.io/images/updated-byox-banner.gif)](https://codecrafters.io/github-banner)
+[![Banner](https://codecrafters.io/images/byox-banner.gif)](https://codecrafters.io/github-banner)
 
-## Build your own &lt;insert-technology-here&gt in JavaScript;
+## Table of Contents: Build your own X in JavaScript;
 
-This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch in JavaScript ( & Node.js). 
+This fork is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch in JavaScript ( & Node.js). 
 
 > *What I cannot create, I do not understand — Richard Feynman.*
 
